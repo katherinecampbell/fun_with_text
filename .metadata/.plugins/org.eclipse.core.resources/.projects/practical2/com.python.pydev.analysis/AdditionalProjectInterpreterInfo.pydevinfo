@@ -1,0 +1,37 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Katherine\Documents\COMP47600\.metadata\.plugins\org.eclipse.core.resources\.projects\practical2\com.python.pydev.analysis\v2_indexcache
+question2b|1506619855823303000|C:\Users\Katherine\Documents\COMP47600\practical2\question2b.py
+question1b|1506534936661015000|C:\Users\Katherine\Documents\COMP47600\practical2\question1b.py
+question2a|1506535378945312000|C:\Users\Katherine\Documents\COMP47600\practical2\question2a.py
+question3|1506690832512274000|C:\Users\Katherine\Documents\COMP47600\practical2\question3.py
+question1|1505921499137962000|C:\Users\Katherine\Documents\COMP47600\practical2\question1.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+1=question2b
+3=question1b
+4=question2a
+2=question3
+5=question1
+-- END DICTIONARY
+-- START TREE 1
+14
+get|1|get_wordnet_pos!10@
+htm|1|html!19@
+lem|2|lemma_list!11@lemma!11@
+new|3|new_token!27@new_token!11@new_token!35@
+por|1|porter_stemmer!35@
+sen|3|sent!35@sent!11@sent!27@
+sou|2|soup!19@soupLinks!19@
+ste|1|stemmed_stuff!35@
+tag|1|tags!11@
+tex|1|text!27@
+tok|4|tokens!43@tokens!11@tokens!27@tokens!35@
+use|3|useless_char!35@useless_char!11@useless_char!27@
+wn_|1|WN_lemmatizer!11@
+wnt|1|wntag!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
