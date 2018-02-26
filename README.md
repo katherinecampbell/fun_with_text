@@ -1,5 +1,2 @@
 "# fun_with_text"
-"# fun_with_text"
-"# fun_with_text"
-"# fun_with_text"
-"# fun_with_text"
+a sampling of labs exploring text analytics libraries and approaches
